@@ -1,5 +1,5 @@
-name: 'Yanos'
-description: 'Greet someone and record the time'
+name: 'Markhor'
+description: 'Build static site'
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/tufteddeer/yanos:latest'
+  image: 'docker://ghcr.io/tufteddeer/markhor:v0.1.0'
