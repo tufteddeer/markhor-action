@@ -2,4 +2,4 @@ name: 'Markhor'
 description: 'Build static site'
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/tufteddeer/markhor:v0.1.0'
+  image: 'docker://ghcr.io/tufteddeer/markhor:v0.2.0'
